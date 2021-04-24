@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  niku: ^1.0.2
+  niku: ^1.0.4
   flutter_hooks: ^0.16.0
 
   changeif:
