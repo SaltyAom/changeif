@@ -1,7 +1,6 @@
 name: changeif
 description: Flutter Hook's useMemoized as dot notation.
 version: 0.0.1
-author: "SaltyAom (saltyaom@gmail.com)"
 homepage: "https://github.com/SaltyAom/changeif"
 
 environment:
@@ -12,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_hooks: '>=0.16.0'
+  flutter_hooks: '^0.16.0'
 
 dev_dependencies:
   flutter_test:
