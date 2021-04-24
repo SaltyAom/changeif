@@ -1,8 +1,8 @@
 name: changeif
-description: A new Flutter package project.
+description: Flutter Hook's useMemoized as dot notation.
 version: 0.0.1
-author:
-homepage:
+author: "SaltyAom (saltyaom@gmail.com)"
+homepage: "https://github.com/SaltyAom/changeif"
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
